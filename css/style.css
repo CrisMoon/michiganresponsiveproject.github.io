@@ -76,7 +76,11 @@ figure{
     img{
         border-radius: 0%;
         width: 97%;
+        height: 100%;
     }   
+    figure{
+        height: 80%;
+    }
 }
 
 @media (prefers-reduced-motion){
